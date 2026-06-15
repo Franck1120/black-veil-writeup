@@ -1,0 +1,6 @@
+prop-set/
+_mmd_check/
+.DS_Store
+Thumbs.db
+*.tmp
+*.log

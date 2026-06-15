@@ -1,0 +1,53 @@
+BLACK VEIL — COVER IMAGE CONCEPT
+=================================
+(For Midjourney / Flux / SDXL — Kekko to generate)
+
+------------------------------------------------------------
+PRIMARY CONCEPT (recommended)
+------------------------------------------------------------
+A weathered hand holding a LoRa radio node (small ESP32 board with a stubby
+external antenna, faint OLED glow) in a dark misty pine forest at dusk. The
+device's screen shows a list of node names, one of them — "ECHO-9" — highlighted
+in cyan while the others are dim red. Faint geometric mesh-network lines (thin
+glowing edges connecting nodes) float in the fog above the forest, like an
+overlaid HUD. One bright line breaks away from the broadcast web and points to a
+single distant node. Cold teal-and-amber palette, heavy atmospheric haze, film
+grain. Cinematic, tactical, slightly clandestine — NOT cartoonish, NOT neon-cyber.
+
+Mood keywords: clandestine, analog-meets-digital, fog, signal-in-the-noise,
+quiet tension.
+
+Aspect ratio: 16:9 (blog hero) — also export 1.91:1 (OG/Twitter card) and
+1:1 (Reddit/Instagram).
+
+------------------------------------------------------------
+ALTERNATE A — "The Decryption"
+------------------------------------------------------------
+Flat-lay / top-down on a rough wooden surface: a printed document with a
+monospace table, a torn paper note reading "CIPHER: VIGENERE", a pen, a
+phone showing a Vigenère tabula recta, and a LoRa node with antenna. A faint
+hand-written line connects the word "VEILGHOST" to a decoded scrap reading
+"NODO ECHO NOVE". Desaturated, documentary, "evidence on a table" aesthetic.
+Tactile, grounded, puzzle-forward. Good for the cryptography audience.
+
+------------------------------------------------------------
+ALTERNATE B — "Broadcast vs Direct" (most conceptual)
+------------------------------------------------------------
+Minimal dark background. A network diagram rendered as glowing nodes: five red
+nodes clustered, one cyan node ("ECHO-9") set apart. From a central point, two
+visualized message paths — a wide red cone fanning out to ALL nodes (labeled
+faintly "BROADCAST"), versus a single thin cyan beam to the lone node (labeled
+"DIRECT"). The cyan path is sharp and correct; the red cone reads as danger.
+Clean, technical, almost a textbook figure but cinematic. Best for HN/technical
+crowd — communicates the core idea at a glance.
+
+------------------------------------------------------------
+TYPOGRAPHY OVERLAY (if adding title to the image)
+------------------------------------------------------------
+"BLACK VEIL" in a condensed military/stencil-adjacent display face, but
+restrained — not over-stamped. Subtitle in a clean mono. Avoid the generic
+"glitchy hacker" font. Keep the type small and lower-third; let the image breathe.
+
+NEGATIVE / AVOID: no guns front-and-center, no faces, no real coordinates or
+real place names visible, no obvious "airsoft gear" branding, no garish
+matrix-green code rain, no AI-generic glossy 3D render look.
