@@ -2,7 +2,7 @@
 
 *How I designed a Meshtastic/LoRa crypto challenge for an airsoft milsim event — and what I learned about field cryptography under stress.*
 
-**By Francesco "Kekko" Rocco — Hephios Lab**
+*Open-source design writeup · MIT license*
 
 ```
  ╔══════════════════════════════════════════════════════════════════════╗
@@ -36,7 +36,7 @@
 
 ## Context
 
-A few months ago I designed the puzzle objective for a 3-hour airsoft milsim called **Operation Black Veil**, run under a CSEN sporting framework in a wooded mountain area of southern Italy. Roughly 50 players across up to 10 teams worked through a chain of six combat objectives. Five of them were "shoot the bad guys, grab the thing." One of them — **Objective 1, callsign "Ghost Frequency"** — was mine, and it had no shortcut that didn't run through actual cryptography.
+A few months ago I designed the puzzle objective for a 3-hour airsoft milsim called **Operation Black Veil**, run in a wooded mountain area. Roughly 50 players across up to 10 teams worked through a chain of six combat objectives. Five of them were "shoot the bad guys, grab the thing." One of them — **Objective 1, callsign "Ghost Frequency"** — was mine, and it had no shortcut that didn't run through actual cryptography.
 
 The brief the players got was deliberately thin:
 
