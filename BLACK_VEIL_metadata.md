@@ -41,7 +41,7 @@
 - **r/cryptography**: downplay airsoft, emphasize *distributed key recovery* as the real difficulty and Vigenère-as-deliberate-choice. They'll respect the "weak cipher + strong key-hiding" reasoning.
 - **r/meshtastic**: lead with the hardware + the broadcast/DM/PKC mechanic. This is their home turf — they'll appreciate the config and the `destinationId` lesson.
 - **Hacker News**: the title that performs is the *idea*, not the event. "A crypto puzzle where the whole objective compressed into one function argument" is the hook.
-- **LinkedIn (career/DevOps angle)**: frame as systems thinking end-to-end — threat model, constraints, real radio stack, post-mortem. This is the portfolio-piece framing.
+- **LinkedIn / professional networks**: frame as systems thinking end-to-end — threat model, constraints, real radio stack, post-mortem.
 
 ## Suggested canonical home
 
